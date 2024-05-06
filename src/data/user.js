@@ -13,7 +13,7 @@ const INFO = {
 		github: "https://github.com/UntitledPenguin",
 		linkedin: "https://www.linkedin.com/in/jiaqi-wang-ramis",
 		instagram: "https://instagram.com/",
-		blog: "https://upfactory.vercel.app/",
+		blog: "https://untitlepenguin.notion.site/PenguinHere-a2d05da8338645a9b83b58e9121d6b97",
 		facebook: "https://facebook.com/",
 	},
 

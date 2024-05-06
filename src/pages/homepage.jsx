@@ -128,7 +128,7 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href={INFO.socials.blog}
+								href={INFO.socials.notion}
 								target="_blank"
 								rel="noreferrer"
 							>
