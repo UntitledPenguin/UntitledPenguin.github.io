@@ -3,7 +3,7 @@ const INFO = {
 		title: "Untitled Penguin",
 		name: "Jiaqi Wang",
 		email: "qramisw@gmail.com",
-		logo: "/logopenguin.png",
+		logo: "/../LogoPenguin.png",
 	},
 
 	socials: {
