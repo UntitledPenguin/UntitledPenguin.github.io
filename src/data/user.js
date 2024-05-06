@@ -24,9 +24,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "Hi, My name is Jiaqi Wang. Currently base in London.",
+		title: "Hi, My name is Jiaqi Wang！",
 		description:
-			"There should be a self-introduction coming soon",
+			"I am a urbanist base in London.There should be a deeper self-introduction coming soon",
 	},
 
 	articles: {
