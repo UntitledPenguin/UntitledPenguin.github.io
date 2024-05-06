@@ -2,7 +2,7 @@
 
 .project {
 	mix-blend-mode: normal;
-	border-radius: 2%;
+	border-radius: 10pt;
 	opacity: 0.8;
 	height: 100%;
 }

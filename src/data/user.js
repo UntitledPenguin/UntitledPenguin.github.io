@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Untitled Penguin Factory",
+		title: "Untitled Penguin",
 		name: "Jiaqi Wang",
 		email: "qramisw@gmail.com",
 		logo: "../logopenguin.png",
