@@ -26,7 +26,7 @@ const INFO = {
 	about: {
 		title: "Hi, My name is Jiaqi Wang！",
 		description:
-			"I am a urbanist base in London.There should be a deeper self-introduction coming soon",
+			"I am a young and curious urbanist base in London. There should be a deeper self-introduction coming soon",
 	},
 
 	articles: {
