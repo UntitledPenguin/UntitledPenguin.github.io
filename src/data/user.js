@@ -37,45 +37,45 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "PelicanFlow × DATA",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Grasshopper plugin developed with PythonScript, designed to simplify burdensome and repetitive data handling and visualisation tasks, enabling professionals to focus on design rather than data organization. ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Coming Soon!",
+			link: "https://pelicanflow.vercel.app/",
 		},
 
 		{
-			title: "Project 3",
+			title: "PelicanFlow × MASSING",
+			description:
+				"Grasshopper plugin developed with PythonScript, tool for urban planning to build customized building typology on preseted objects while providing Statistic overview.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "Coming Soon!",
+			link: "https://pelicanflow.vercel.app/",
+		},
+
+		{
+			title: "PelicanFlow × TERRITORY",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Coming Soon!",
+			link: "https://pelicanflow.vercel.app/",
 		},
 
 		{
-			title: "Project 4",
+			title: "Titanic - Machine Learning from Disaster",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A Random Forest model designed to predict passenger survival on the Titanic, achieving an accuracy exceeding 80% on the test dataset and ranking in the top 3% of participants in the Kaggle competition.",
+			logo: "https://i0.wp.com/www.cybera.ca/wp-content/uploads/2020/09/jupyter.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/UntitledPenguin/Titanic",
 		},
 
 		{
-			title: "Project 5",
+			title: "Inside Out? Recalibrating Munich Metropolitan Region",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This project uses K-mean Cluster analysis to assess “Zweite Stammstrecke” Express Rail Project’s indication of urbanisation and regionalization for the Munich Metropolitan Region (MMR).",
 			logo: "https://ramisurban.github.io/assets/img/featuredwork/Project05_MUC_01.jpg",
 			linkText: "View Project",
 			link: "https://ramisurban.github.io/05MUC",
