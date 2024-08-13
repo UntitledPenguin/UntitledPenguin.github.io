@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.81e5ad78.css",
-    "main.js": "/static/js/main.b909c7e4.js",
+    "main.css": "/static/css/main.986c6bc8.css",
+    "main.js": "/static/js/main.b50f827d.js",
     "static/js/787.512dd3f2.chunk.js": "/static/js/787.512dd3f2.chunk.js",
-    "static/media/SampleCover.jpg": "/static/media/SampleCover.3631f1853e095e1ffe0e.jpg",
+    "static/media/Zhanggarden.png": "/static/media/Zhanggarden.2035142f2cf2b3d753f1.png",
+    "static/media/Airport.png": "/static/media/Airport.0abe50fd3fed0f15a32c.png",
+    "static/media/Complex.png": "/static/media/Complex.936dda170af909cb8a55.png",
+    "static/media/Livewithwater.png": "/static/media/Livewithwater.bf38bb8f73b1a156e139.png",
+    "static/media/Synergy.png": "/static/media/Synergy.7557fe484c8fbe9acc21.png",
+    "static/media/Gentrification.png": "/static/media/Gentrification.5d3e199ada6c0216f356.png",
+    "static/media/InsideOut.png": "/static/media/InsideOut.974423bc6838f28659e8.png",
+    "static/media/lifvetransition.png": "/static/media/lifvetransition.756899d7e4deee39503b.png",
+    "static/media/Titanic.png": "/static/media/Titanic.7b0abf5ac122a988aadc.png",
     "index.html": "/index.html",
-    "main.81e5ad78.css.map": "/static/css/main.81e5ad78.css.map",
-    "main.b909c7e4.js.map": "/static/js/main.b909c7e4.js.map",
+    "main.986c6bc8.css.map": "/static/css/main.986c6bc8.css.map",
+    "main.b50f827d.js.map": "/static/js/main.b50f827d.js.map",
     "787.512dd3f2.chunk.js.map": "/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81e5ad78.css",
-    "static/js/main.b909c7e4.js"
+    "static/css/main.986c6bc8.css",
+    "static/js/main.b50f827d.js"
   ]
 }
