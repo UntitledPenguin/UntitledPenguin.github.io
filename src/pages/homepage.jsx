@@ -92,13 +92,12 @@ const Homepage = () => {
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
 									<h4>Hi! I am Jiaqi👋,  
-									<TypingText toRotate={[ " an Urban Designer? √", " a Data Urbanist? √", "a Future Creator? √√√" ]} />
+									<TypingText toRotate={[ "A Next-Gen Urban Designer? √", "An Integrated Urban Technologist? √", "a Holistic Urban Innovator? √√√" ]} />
 									</h4>
 								</div>
 
 								<div className="subtitle homepage-subtitle">
-								<p>As an <strong>urban designer🪅</strong> who passionates about using data and technology to create sustainable and inclusive cities,
-   I thrive on integrating cutting-edge solutions like <strong>big data analytics📊</strong>, <strong>machine learning👨‍🚀</strong>, and <strong>generative AI🤖</strong> into our urban design strategies and workflow so that it helps to tackle complex challenges and foster innovation. Let's work together to shape a brighter future for our cities🏙️!</p>
+								<p>As an <strong>urban designer🪅</strong> passionate about leveraging data and technology, I am dedicated to creating sustainable and inclusive cities. My key interests include integrating advanced tools like <strong>machine learning</strong> to extract meaningful insights from data👨‍🚀, using <strong>Python × Grasshopper</strong> to optimize design strategies and workflows, and combining <strong>traditional renders × generative AI🤖</strong> to elevate design presentations. Let's collaborate to harness these innovations and build a brighter future for our cities🏙️!</p>
 								</div>
 							</div>
 

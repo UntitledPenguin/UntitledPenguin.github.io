@@ -1,0 +1,18 @@
+
+		{
+			title: "PelicanFlow × MASSING",
+			description:
+				"Grasshopper plugin developed with PythonScript, tool for urban planning to build customized building typology on preseted objects while providing Statistic overview.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "Coming Soon!",
+			link: "https://pelicanflow.vercel.app/",
+		},
+
+		{
+			title: "PelicanFlow × TERRITORY",
+			description:
+				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			linkText: "Coming Soon!",
+			link: "https://pelicanflow.vercel.app/",
+		},

@@ -48,6 +48,29 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+								<br />
+                  				<div>Current Focus🔍 (2024)</div>
+								<div>I’m diving into Machine Learning and GHPython Plugin Development this year. Recently, I’ve been following the Machine Learning Specialisation offered by DeepLearning×Stanford Online. In the meanwhile, I’m busy crafting and testing a new toolkit named 'PelicanFlow', which I use to develop optimized data management and massing generation workflows in masterplanning and urban design projects. 🌆🔍</div>
+                  				<br />
+                  				<div>Strengths🧩</div>
+                  				<div>- Problem-Solving Enthusiast: Always excited to tackle new challenges and find creative solutions. </div>
+                  				<div>- Wizard of Visualisation: Great at making complex ideas easy to understand for all kinds of audiences. </div>
+                  				<br />
+                  				<div>Educational Background🎓</div>
+                  				<div>- MPhil at University of Cambridge </div>
+                  				<div>- MSc in Architecture and Building Science: TU Delft </div>
+                  				<div>- Bachelor in Architecture: Tongji University </div>
+                  				<div>- Exchange Student: TU Munich </div>
+                  				<br />
+                  				<div>Skill Set💼</div>
+                 	 			<div>- Programming: Python (NumPy, Pandas, scikit-learn, matplotlib), Grasshopper+RhinoScript, Jupyter Notebook </div>
+                  				<div>- Design & Visualization: Adobe Illustrator, Photoshop, InDesign, Premiere, Enscape, Vray, Hand Sketching </div>
+                  				<div>- Statistics: Supervised Machine Learning (Random Forest, Logistic Regression, Linear Regression), Neural Network, KNN </div>
+                  				<div>- Data Structures: Solid understanding of arrays, linked lists, stacks, queues, hash tables, balanced search trees, and graphs </div>
+                  				<br />
+                  				<div>Long-term Motivation🌍</div>
+                  				<div>-Passionate about leveraging technology to address social and climate challenges, with a strong commitment to making a positive impact. </div>
+
 							</div>
 
 							<div className="about-left-side">
