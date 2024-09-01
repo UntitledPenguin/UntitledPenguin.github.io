@@ -61,7 +61,7 @@ const Contact = () => {
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.instagram}
+								{INFO.socials.linkedin}
 							</a>
 							. I post regular updates and check my inbox on a daily basis, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
